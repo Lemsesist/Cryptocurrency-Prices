@@ -1,0 +1,11 @@
+.search-bar-container {
+  margin: 10px 0 20px 0;
+}
+
+.search-bar {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
